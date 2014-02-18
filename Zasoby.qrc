@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Ikony">
+        <file>Icon/Sad.ico</file>
+        <file>Icon/Smile.png</file>
+        <file>Icon/flag.png</file>
+        <file>Icon/theme1.jpg</file>
+        <file>Icon/mina.png</file>
+        <file>Icon/pytajnik.png</file>
+        <file>Icon/mute.png</file>
+        <file>Icon/sounds.png</file>
+        <file>Icon/Face_.jpg</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/Mark_Neil_-_11_strANGE_Ls.mp3</file>
+    </qresource>
+    <qresource prefix="/wyniki">
+        <file>wyniki.txt</file>
+    </qresource>
+</RCC>
